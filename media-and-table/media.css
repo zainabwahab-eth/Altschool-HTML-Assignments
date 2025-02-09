@@ -37,6 +37,11 @@ img {
     width: 200px
 }
 
-audio, video {
-    width: 400px;
+audio,
+video {
+    width: 500px;
+}
+
+video {
+    height: 300px;
 }

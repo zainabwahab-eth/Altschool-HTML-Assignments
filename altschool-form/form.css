@@ -103,14 +103,17 @@ label {
     font-size: 14px;
 }
 
-input, select {
+input,
+select {
     padding: 12px;
     border: 1px solid #d7d7d7;
     border-radius: 4px;
     font-size: 14px;
 }
 
-label:last-of-type, .p, .btn {
+label:last-of-type,
+.p,
+.btn {
     grid-column: span 2;
 }
 
